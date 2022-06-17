@@ -1,4 +1,4 @@
 
  ## Hack Github Commit 
  ### Watch video <a href="https://www.youtube.com/channel/UCelbvkWLSOj8eQjDd79ZN9g">here</a> 
- Wed 16 Jun 2021 
+ Thu 17 Jun 2021 
