@@ -9,8 +9,8 @@ def fileing(i):
        file.close()
 
 def load():
-    start_date = datetime.date(2022, 1, 1)
-    end_date = datetime.date(2023, 3, 20)
+    start_date = datetime.date(2021, 1, 1)
+    end_date = datetime.date(2023, 4, 10)
     delta = datetime.timedelta(days=1)
     while (start_date <= end_date):
         start_date +=delta
